@@ -1,0 +1,52 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 59.5rem;
+}.item-5-xjQ {
+  box-sizing: border-box;
+  padding: 6.664rem 0rem 10.116rem 0rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #faf3ed;
+}
+.item-5-xjQ .line-10-VDY {
+  margin: 0rem 0rem 0.336rem 41.509rem;
+  width: 0.025rem;
+  height: 30.7rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.item-5-xjQ .item-5--QLW {
+  margin: 0rem 42.163rem 27.534rem 0rem;
+  max-width: 6.9rem;
+  cursor: pointer;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.375;
+  color: #424242;
+  font-family: Pretendard, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.item-5-xjQ .line-6-Snz {
+  margin-right: 6.3162rem;
+  width: 61.2rem;
+  height: 0.05rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}

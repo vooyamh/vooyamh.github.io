@@ -1,0 +1,118 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 119rem;
+}.item-5-7sc {
+  box-sizing: border-box;
+  padding: 6.2rem 2.252rem 5.2rem 5.448rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #faf3ed;
+}
+.item-5-7sc .auto-group-xlxw-RtJ {
+  margin: 0rem 16.9rem 3rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.item-5-7sc .auto-group-xlxw-RtJ .mask-group-A5C {
+  margin-bottom: 1.6rem;
+  width: 17.8rem;
+  height: 17.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item-5-7sc .auto-group-xlxw-RtJ .mask-group-T4J {
+  margin: 0rem 0rem 2.4rem 10.6rem;
+  width: 33.3rem;
+  height: 33.3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item-5-7sc .auto-group-xlxw-RtJ .sns--Nwx {
+  margin-left: 0.4rem;
+  max-width: 43.5rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #424242;
+  font-family: Pretendard, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.item-5-7sc .auto-group-xlxw-RtJ .sns--Nwx .sns--Nwx-sub-0 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #424242;
+  font-family: Pretendard, 'Source Sans Pro';
+}
+.item-5-7sc .auto-group-xlxw-RtJ .sns--Nwx .sns--Nwx-sub-1 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #424242;
+  font-family: Pretendard, 'Source Sans Pro';
+}
+.item-5-7sc .auto-group-p5v6-f7k {
+  margin-top: 3.7rem;
+  width: 50.5rem;
+  height: 69.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.item-5-7sc .auto-group-p5v6-f7k .item--yeE {
+  width: 50.5rem;
+  height: 32.7rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 36.4rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #424242;
+  font-family: Pretendard, 'Source Sans Pro';
+}
+.item-5-7sc .auto-group-p5v6-f7k .item--yeE .item--yeE-sub-0 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #424242;
+  font-family: Pretendard, 'Source Sans Pro';
+}
+.item-5-7sc .auto-group-p5v6-f7k .item--yeE .item--yeE-sub-1 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #424242;
+  font-family: Pretendard, 'Source Sans Pro';
+}
+.item-5-7sc .auto-group-p5v6-f7k .p20230519152316624d576a0ce-0dcb-485e-819a-bb85c183cd52-L8e {
+  width: 29.6rem;
+  height: 39.5rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 14.8rem;
+}
