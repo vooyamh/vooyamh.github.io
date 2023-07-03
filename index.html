@@ -1,36 +1,42 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="utf-8" />
-  <link rel="icon" href="/favicon.ico" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="theme-color" content="#000000" />
-  <title>cover</title>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400"/>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans+KR%3A400"/>
-  <link rel="stylesheet" href="./styles/cover.css"/>
+  <title>가운데 미리보기 버튼</title>
+  <style>
+    .container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 100vw;
+      height: 100vh;
+    }
+
+    .button {
+      width: 300px;
+      height: 100px;
+      background-color: #f0f0f0;
+      border: none;
+      border-radius: 15px;
+      text-align: center;
+      line-height: 100px;
+      font-size: 20px;
+      font-weight: bold;
+      color: #000;
+      cursor: pointer;
+      transition: background-color 0.3s, color 0.3s;
+    }
+
+    .button:hover {
+      background-color: #000;
+      color: #fff;
+    }
+  </style>
 </head>
 <body>
-<div class="cover-hca">
-  <div class="auto-group-juys-34A">
-    <div class="frame-1-8jp">1월</div>
-    <div class="frame-2-wxA">2월</div>
-    <div class="frame-3-qne">3월</div>
+  <div class="container">
+    <a href="https://www.figma.com/proto/l9SryCEY9fe5UbpmjdvpAf/%5BCommerce%5DMarketRe0622?page-id=0%3A1&type=design&node-id=35-594&viewport=904%2C251%2C0.15&t=t5puwNr48oQt8VHz-1&scaling=min-zoom&starting-point-node-id=35%3A594" target="_blank">
+      <div class="button">TEST 미리보기</div>
+    </a>
   </div>
-  <div class="auto-group-b8rc-Jw8">
-    <div class="frame-4-DYJ">4월</div>
-    <div class="frame-5-gRt">5월</div>
-    <div class="frame-6-xeJ">6월</div>
-  </div>
-  <div class="auto-group-d1jt-39x">
-    <div class="frame-7-n7Y">7월</div>
-    <div class="frame-8-5sL">8월</div>
-    <div class="frame-9-CBG">9월</div>
-  </div>
-  <div class="auto-group-jxcs-Tcz">
-    <div class="frame-10-PWe">10월</div>
-    <div class="frame-11-swc">11월</div>
-    <div class="frame-12-ab8">12월</div>
-  </div>
-</div>
 </body>
+</html>
